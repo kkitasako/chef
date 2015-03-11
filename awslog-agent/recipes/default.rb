@@ -7,6 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
+
 # Install AWS CloudWatchLogs Agent
 package "awslogs" do
 	action :install
